@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NapsterAPI", "NapsterAPI\NapsterAPI.csproj", "{E9B7EFDC-C1C6-42B3-95C8-903F52C954F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9B7EFDC-C1C6-42B3-95C8-903F52C954F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9B7EFDC-C1C6-42B3-95C8-903F52C954F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9B7EFDC-C1C6-42B3-95C8-903F52C954F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9B7EFDC-C1C6-42B3-95C8-903F52C954F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F861A27-79CB-45CD-98AC-A216C29C5D45}
+	EndGlobalSection
+EndGlobal
